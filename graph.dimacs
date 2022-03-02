@@ -1,0 +1,8 @@
+c FILE: graph.dimacs
+c SOURCE: Abdelkader Ouali
+c DESCRIPTION: Graphe exemple de l'exercice 2 du DM 2020. 
+c <p pour problem> <format> <nombre de sommets> <nombre d'arêtes>
+c <e pour edge (arête)> <premier sommet> <deuxième sommet>
+p edge 3 2
+e 1 2
+e 1 3
